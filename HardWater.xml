@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<barmenu>
+  <section name="Spirits">
+    <entree>
+      <item>Vodka + Splash</item>
+      <price>6.50</price>
+    </entree>
+    <entree>
+      <item>Tequila (shot) </item>
+      <price>4.00</price>
+    </entree>
+  </section>
+  <section name="Beers">
+    <entree>
+      <item>Heineken</item>
+      <price>6.50</price>
+    </entree>
+    <entree>
+      <item>Guiness</item>
+      <price>6.50</price>
+    </entree>
+    <entree>
+      <item>HopHouse</item>
+      <price>6.50</price>
+    </entree>
+  </section>
+  <section name="Wines">
+    <entree>
+      <item> Cabernet Sauvignon</item>
+      <price>7.99</price>
+    </entree>
+    <entree>
+      <item>Pinot Grigio</item>
+      <price>6.99</price>
+    </entree>
+    <entree >
+      <item>Rose</item>
+      <price>7.50</price>
+    </entree>
+  </section>
+  <section name="Portions">
+    <entree>
+      <item>Chicken wings</item>
+      <price>10.99</price>
+    </entree>
+    <entree>
+      <item>Chips</item>
+      <price>9.99</price>
+    </entree>
+  </section>
+</barmenu>
